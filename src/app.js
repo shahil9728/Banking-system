@@ -27,14 +27,15 @@ app.set('view engine', 'ejs')
 app.use(express.urlencoded({ extended: false }));
 
 app.get('/', (req, res) => {
-    res.render('index.hbs')
+    res.render('index.ejs',{success:''})
 })
 
 app.post('/newcustomer', async (req, res) => {
     try {
         const userdata = new User(req.body);
         await userdata.save();
-        res.redirect('/')
+        res.render('index.ejs',{success:"You have successfully opened your account"})
+        // res.redirect('/')
     }
     catch (error) {
         res.status(500).send(error);

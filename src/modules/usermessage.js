@@ -6,16 +6,6 @@ const userschema=mongoose.Schema({
         required:true,
         minlength:3
     },
-    sender:{
-        type:String,
-        required:true,
-        minlength:3
-    },
-    reciever:{
-        type:String,
-        required:true,
-        minlength:3
-    },
     email:
     {
         type:String,
