@@ -53,9 +53,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![This is an image](https://bnz05pap002files.storage.live.com/y4mPUwP8oux7BV3im_4aVGCb_Gf_c0YEV8NzkeoNp4gtoDleP6k7S2Si0ICsmFBtJnmX-P9WitaosZWkaveivXs-ThGlihGKVhDc0SEBv2TlRnhthy2HKvgvS030BUNknbwYn1dXJK5MmYgdOVSwHr1ll3SsxqvPBWG81YcaWSsUwuclPKAmEzqSqcVieOX9vE_xmQXAPAF7IjowAyP8a5cds1zr1M7va3JW4JspJF2mxc?encodeFailures=1&width=957&height=434)
-
-
 The project is used as an interface for transferring the money from one back account of user to the bank account of other user. And user can also see all the transactions undergoing in the bank.
 We have used the HTML, CSS and little bit of JavaScript along with the Monogdb Database and Node js. 
 
