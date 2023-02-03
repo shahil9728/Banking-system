@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shahil9728/Banking-system">
-    <img src="https://bnz05pap002files.storage.live.com/y4mnLADJo9fVqDOerHieQG3k8QEDdJtEvmAMscTSF7aJrLyxy1Dray5oEnchjIKhbMtCoZPzNbvDzp6TKuKBIYl102akkPZloSRduV_rXm_UA57T7uylY5orOuudjyHr6yZRUR71nJRSUPPS-xiwGP8960PAEZmPsCLCcsrJLbHKG7FFBrVtN-pQi4Lj9CH8bv6n1FoaXvGuZrwa7-lc-T7DNJFxZA2-ZE3iz20sXOFT4Q?encodeFailures=1&width=464&height=493" alt="Logo" width="90" height="90">
+![Alt image](src/templates/images/bank1.png)
   </a>
 
   <h3 align="center">Banking System</h3>
@@ -87,11 +87,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- IMAGES -->
 ## Project Screenshots
 
-![This is an image](https://bnz05pap002files.storage.live.com/y4mV1AGnwL0ltXY2Unn41IutIqE9B9IjzwXvFRiLjwL2a8bOrCd5yeuOjokF6KzbfccvbXSkQvFajgxXX1q8Fz3nomJMZ4MtBQ122CF72aBwoz-lq5uLmrx74-gacJZbyr7R2hbE9XFyT7mN43B9nPU3qXuI7IVUNGnlggB2XJD8C5zLi1ZkOGx1KLDvEI-YC-wmdBCRfZCZzRV3c2PYke1_xjPde2Uk9EWwnwikmWZiEo?encodeFailures=1&width=956&height=431)
+![Alt image](src/templates/images/bank2.png)
 
 <br/>
 
-![This is an image](https://bnz05pap002files.storage.live.com/y4maViBvrhhXGLePxdEPgRY0AAo7PPZ5cgmMtOEDupuZ5Z18O-uEV1VfDlprHsdahEuphbT4LMjpFWUo3tTjM1E3qE56QeGA6zmXJxQm8FC-YbFzERRq2p_jDo1POji-3Fq0-l8NohAJSBPfYnrPnG3SclwalKwDSPqZ5EkFb2DW9ZwlBOeJj9hUzPr_osQ3c9ggwWXACcLnLLZcWUoqco0HtGxWjODopIboyyYGAFDo4I?encodeFailures=1&width=956&height=433)
+![Alt image](src/templates/images/bank3.png)
 
 
 <!-- CONTACT -->
