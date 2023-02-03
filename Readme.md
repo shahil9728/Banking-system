@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shahil9728/Banking-system">
-![Alt image](src/templates/images/banking.png)
+  <img src="src/templates/images/banking.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Banking System</h3>
