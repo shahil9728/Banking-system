@@ -87,6 +87,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- IMAGES -->
 ## Project Screenshots
 
+<br/>
+
+![Alt image](src/templates/images/bank1.png)
+
+</br>
+
+
 ![Alt image](src/templates/images/bank2.png)
 
 <br/>
